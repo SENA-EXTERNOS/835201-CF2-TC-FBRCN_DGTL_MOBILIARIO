@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Diseño de productos mobiliarios',
+    descripcionCurso:
+      'Este componente desarrolla los aspectos y temáticas para el diseño, dibujo y modelado desde los principales softwares de dibujo mecánico y de diseño de piezas, necesarios para una etapa de producción. Se revisarán de manera general las principales consideraciones en torno a la calidad y principios de la preproducción de productos mobiliarios. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-1.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

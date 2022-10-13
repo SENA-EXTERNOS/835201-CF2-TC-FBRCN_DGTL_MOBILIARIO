@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Diseño de productos mobiliarios**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/835201-CF2-TC-FBRCACN_DGTL_MOBILIARIO/](https://sena-externos.github.io/835201-CF2-TC-FBRCACN_DGTL_MOBILIARIO/)
 
 #
 
