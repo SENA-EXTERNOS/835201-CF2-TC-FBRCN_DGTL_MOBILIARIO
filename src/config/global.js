@@ -52,14 +52,14 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
         titulo: 'Operaciones con sólidos',
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema1',
+        nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
         titulo: 'Introducción a la calidad y la pre-producción',
@@ -80,14 +80,14 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
         titulo: 'Modelado tridimensional: tipos y técnicas empleadas',
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
         titulo: 'Calidad en diseño, fabricación y mantenimiento de mobiliario',
