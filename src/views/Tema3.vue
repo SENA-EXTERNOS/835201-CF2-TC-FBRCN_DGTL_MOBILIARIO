@@ -64,6 +64,64 @@
             figure
               img(src='@/assets/curso/temas/T3/img-5.svg', alt='Texto que describa la imagen')
 
+    h3.mb-4 Realidad Virtual
+
+    .tarjeta.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-2
+          img(src="@/assets/curso/temas/T3/img-6.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              p A diferencia de la realidad aumentada, la realidad virtual es una tecnología totalmente inmersiva; esto quiere decir que “transporta” al diseñador o al usuario a un ambiente completamente virtual, aislándolo de la realidad física. En esta innovación tecnológica intervienen accesorios como gafas o visores especializados, controles manuales, dispositivos configurables en función de las acciones que se pretendan desarrollar en el espacio simulado y permite, además, mediante sensaciones organolépticas estimular reacciones al tacto, la audición y el olfato.
+
+
+    p.mb-5 Conozca algunas características de la realidad virtual:
+
+    .tarjeta.color-acento-botones.p-4.mb-5
+      LineaTiempoC.color-primario(text-small)
+        .row.justify-content-between.align-items-center(titulo="Paso 1")
+          .col-md-6.mb-4.mb-md-0
+            p La realidad virtual trasporta al usuario o diseñador a espacio específico.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/img-7.svg', alt='Texto que describa la imagen')
+
+
+        .row.justify-content-between.align-items-center(titulo="Paso 2")
+          .col-md-6.mb-4.mb-md-0
+            p En la realidad virtual se pueden utilizar controles o accesorios que le permiten al diseñador o usuario interactuar con el espacio o el producto.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
+
+
+        .row.justify-content-between.align-items-center(titulo="Paso 3")
+          .col-md-6.mb-4.mb-md-0
+            p La realidad virtual es una excelente herramienta para evaluar y experimentar la ergonomía y sensación en personas con restricciones de movilidad.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
+
+        .row.justify-content-between.align-items-center(titulo="Paso 4")
+          .col-md-6.mb-4.mb-md-0
+            p La experimentación a través de realidad virtual repercute en un gran porcentaje en la decisión de compra de nuevos clientes.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
+
+        .row.justify-content-between.align-items-center(titulo="Paso 5")
+          .col-md-6.mb-4.mb-md-0
+            p La utilización de la realidad virtual en el proceso de diseño de mobiliario agrega valor al producto y puede aumentar al mismo en la cadena de producción. 
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/img-11.svg', alt='Texto que describa la imagen')
+
 
 
 
