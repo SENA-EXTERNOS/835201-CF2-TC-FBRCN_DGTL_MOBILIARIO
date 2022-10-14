@@ -18,6 +18,8 @@
         .bloque-texto-b.color-secundario.p-5
           .bloque-texto-b__texto
 
+    p.md-5 En esta infografía se presentan algunos de los principales programas o softwares más utilizados en el diseño de mobiliarios con sus características más representativas. 
+
 </template>
 
 <script>
