@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    .tarjeta.tarjeta-gris.p-4.mb-5
+    .tarjeta.color-sistema-texto.p-4.mb-5
       .row.justify-content-around.align-items-center
         .col-md-7
           p.mb-5 Bienvenido a este recurso educativo, en el desarrollo de esta segunda parte del proceso de Fabricación digital de mobiliario, el aprendiz logrará adquirir las herramientas y habilidades básicas de los principales programas para el diseño mecánico, dibujo de piezas, partes y componentes; además de las funciones básicas y operaciones con éstos y lo que le permitia al diseñador, generar propuestas para el cliente. 
