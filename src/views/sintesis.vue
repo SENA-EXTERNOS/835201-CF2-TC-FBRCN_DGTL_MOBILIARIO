@@ -7,7 +7,7 @@
       .titulo-sexto.barrita
         p.mb-0 
         h3 Fabricación digital de mobiliario
-        p Diseño de productos mobiliarios
+        p Síntesis: Diseño de productos mobiliarios
 
     p.mb5 Revise esta síntesis de los temas tratados en el componente de Diseño de Productos Mobiliarios.
 
