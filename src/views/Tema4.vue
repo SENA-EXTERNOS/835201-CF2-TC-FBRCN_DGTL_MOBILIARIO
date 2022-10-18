@@ -64,8 +64,8 @@
 
     p.md-5 Dentro de las principales operaciones con sólidos que se pueden trabajar en programas de diseño y dibujo mecánico se encuentran:
 
-    .row
-      col-xl-7.mb-4
+    .row.mb-5
+      .col-lg-7.mb-4
         TabsA.color-secundario.mb-5
           .tarjeta.color-secundario.p-4(titulo="Barridos")
             h3.md-5 Barridos
@@ -102,17 +102,16 @@
             h3.md-5 Estiramientos
             p Consiste en la elongación o estiramiento de las caras o partes de una figura o cuerpo hasta un punto determinado en el espacio en el que estas se deforman proporcionalmente.
 
-      .col-xl-5
-        figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/T4/img-8.svg', alt='')
+      .col-lg-5.md-5
+        figure(data-aos='fade-right')
+          img(src='@/assets/curso/temas/T4/img-8.png', alt='')
 
 
 
-    .tarjeta.color-secundario.p-4.p-md-5.mb-5
+    .tarjeta.fcp.p-4.p-md-5
       .row.justify-content-around.align-items-center
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          h3 Título del recurso
-          p.mb-4 Te x-acto blades in your bag are back to the basics and make something original. Why are you reading all of this?
+          p.mb-4 En este ejemplo se observa cómo mediante la operación de corte con un plano inclinado en la parte superior de la figura se obtiene una boca más estilizada del recipiente diseñado. 
 
         .col-md.col-lg-6
           img(src="@/assets/curso/temas/T4/img-9.svg")

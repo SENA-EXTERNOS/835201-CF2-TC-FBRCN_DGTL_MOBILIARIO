@@ -10,7 +10,7 @@
     .row.mb-7.mb-5
       .col-md-5.mb-3.mb-md-0(data-aos='fade-right')
         figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-1.svg', alt='Obrero')
+          img(data-aos='fade-right')(src='@/assets/curso/temas/T2/img-1.png', alt='Obrero')
 
       .col-md-5
         p.mb-5 Los softwares para el mercado del dibujo mecánico y diseño de productos utilizados en la industria del mobiliario le permiten al diseñador crear a partir de planos o esquemas en dos dimensiones productos en tres dimensiones; esto mediante procesos de transformación y modelado, así como también la recreación de simulaciones en ambientes o espacios en los que se proyecta que sea utilizado el producto.
@@ -23,7 +23,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/T2/img-2.svg', alt='Obrero')
+          img(src='@/assets/curso/temas/T2/img-2.png', alt='')
 
       .tarjeta.color-acento-botones.p-3(x="23%" y="23%" numero="+")
         .h5.mb-2 Autodesk Fusion 360

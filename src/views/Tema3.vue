@@ -16,7 +16,7 @@
 
       .col-xl-4
         figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/T3/img-1.svg', alt='')
+          img(data-aos='fade-right')(src='@/assets/curso/temas/T3/img-1.png', alt='')
   
     h2.mb-3 Realidad aumentada
     p.mb-5 La realidad aumentada como lo indica su nombre; toma elementos construidos de manera digital por el diseñador y los inserta en la visualización que tiene el usuario a través de un dispositivo móvil, aumentando e insertando elementos virtuales o digitales en el espacio físico real. 
@@ -31,7 +31,7 @@
 
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/temas/T3/img-2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-2.png', alt='Texto que describa la imagen')
        
       .tarjeta.color-secundario.p-4(titulo="PASO 2")
 
@@ -41,7 +41,7 @@
 
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/temas/T3/img-3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-3.png', alt='Texto que describa la imagen')
 
 
       .tarjeta.color-secundario.p-4(titulo="PASO 3")
@@ -52,7 +52,7 @@
 
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/temas/T3/img-4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-4.png', alt='Texto que describa la imagen')
 
       .tarjeta.color-secundario.p-4(titulo="PASO 4")
 
@@ -62,7 +62,7 @@
 
           .col-xl-6.mb-4
             figure
-              img(src='@/assets/curso/temas/T3/img-5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-5.png', alt='Texto que describa la imagen')
 
     h3.mb-4 Realidad Virtual
 
@@ -78,49 +78,49 @@
 
     p.mb-5 Conozca algunas características de la realidad virtual:
 
-    .tarjeta.color-acento-botones.p-4.mb-5
+    .tarjeta.fca.p-4.mb-5
       LineaTiempoC.color-primario(text-small)
         .row.justify-content-between.align-items-center(titulo="Paso 1")
-          .col-md-6.mb-4.mb-md-0
-            p La realidad virtual trasporta al usuario o diseñador a espacio específico.
+          .col-md-8.mb-4.mb-md-0
+            p El uso de dispositivos móviles como tabletas, iPads y celulares permite una rápida visualización de un producto en un espacio físico.
         
-          .col-md-6
+          .col-md-4
             figure
-              img(src='@/assets/curso/temas/T3/img-7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-7.png', alt='Texto que describa la imagen')
 
 
         .row.justify-content-between.align-items-center(titulo="Paso 2")
-          .col-md-6.mb-4.mb-md-0
-            p En la realidad virtual se pueden utilizar controles o accesorios que le permiten al diseñador o usuario interactuar con el espacio o el producto.
+          .col-md-8.mb-4.mb-md-0
+            p La realidad virtual trasporta al usuario o diseñador a espacio específico.
         
-          .col-md-6
+          .col-md-4
             figure
-              img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-8.png', alt='Texto que describa la imagen')
 
 
         .row.justify-content-between.align-items-center(titulo="Paso 3")
-          .col-md-6.mb-4.mb-md-0
-            p La realidad virtual es una excelente herramienta para evaluar y experimentar la ergonomía y sensación en personas con restricciones de movilidad.
+          .col-md-8.mb-4.mb-md-0
+            p El uso de dispositivos móviles como tabletas, iPads y celulares permite una rápida visualización de un producto en un espacio físico.
         
-          .col-md-6
+          .col-md-4
             figure
-              img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-9.png', alt='Texto que describa la imagen')
 
         .row.justify-content-between.align-items-center(titulo="Paso 4")
-          .col-md-6.mb-4.mb-md-0
-            p La experimentación a través de realidad virtual repercute en un gran porcentaje en la decisión de compra de nuevos clientes.
+          .col-md-8.mb-4.mb-md-0
+            p La realidad virtual es una excelente herramienta para evaluar y experimentar la ergonomía y sensación en personas con restricciones de movilidad.
         
-          .col-md-6
+          .col-md-4
             figure
-              img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-10.png', alt='Texto que describa la imagen')
 
         .row.justify-content-between.align-items-center(titulo="Paso 5")
-          .col-md-6.mb-4.mb-md-0
-            p La utilización de la realidad virtual en el proceso de diseño de mobiliario agrega valor al producto y puede aumentar al mismo en la cadena de producción. 
+          .col-md-8.mb-4.mb-md-0
+            p La utilización de la realidad virtual en el proceso de diseño de mobiliario agrega valor al producto y puede aumentar al mismo en la cadena de producción.  
         
-          .col-md-6
+          .col-md-4
             figure
-              img(src='@/assets/curso/temas/T3/img-11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-11.png', alt='Texto que describa la imagen')
 
 
 
