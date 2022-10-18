@@ -148,16 +148,21 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Diseño de producto',
+      referencia:
+        'Alarcón, F,. Albarracín, J,.García, J,. (2004). Tema 2 Diseño del producto, Diseño de sistemas productivos y logísticos. En Problemas resueltos de diseño de sistemas productivos y logísticos (pp. 1-53). Departamento de Organización de Empresas, E.F. y C. ',
+      tipo: 'Curso 04 / 05',
+      link:
+        'http://personales.upv.es/jpgarcia/LinkedDocuments/2DisennodeProducto.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Operaciones con sólidos',
+      referencia:
+        'Revatta, J,. (2016).. Dibujo para diseño de ingeniería II. Universidad Continental. ',
+      tipo:
+        'Documento con herramientas y conceptos para el dibujo de ingeniería.',
+      descarga:
+        'https://repositorio.continental.edu.pe/bitstream/20.500.12394/2209/1/DO_FIN_EE_MT_UC0223_20162.pdf',
     },
   ],
   glosario: [
