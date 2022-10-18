@@ -19,7 +19,7 @@
   
     Separador
 
-    .titulo-segundo.color-acento-botones
+    #t_5_1.titulo-segundo.color-acento-botones
       h2 5.1 Normas aplicables al diseño, fabricación de mobiliario
 
 
@@ -36,8 +36,8 @@
       
     Separador
 
-    .titulo-segundo.color-acento-botones
-      h2 5.1 Elaboración de procedimientos para ensamble de mobiliario  
+    #t_5_2.titulo-segundo.color-acento-botones
+      h2 5.2 Elaboración de procedimientos para ensamble de mobiliario  
 
     .tarjeta.p-4.p-md-5.mb-5
       .row.justify-content-around.align-items-center
