@@ -236,8 +236,37 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Graitec (2018, noviembre 21). 10 razones para utilizar Fusion 360. Graitec 2ACAD-ARKTEC. ',
+      link: 'https://www.2acad.es/10-razones-para-utilizar-fusion-360/',
+    },
+    {
+      referencia:
+        'Marchanteeste, A. (2022, mayo 10). TinkerCAD: ¡Te contamos todo lo que necesitas saber! 3D natives el sitio web de la impresión 3D.',
+      link: 'https://www.3dnatives.com/es/tinkercad-software-200420202/',
+    },
+    {
+      referencia: 'McNeel (2022). Características. Rhinoceros.',
+      link: 'https://www.rhino3d.com/features/ ',
+    },
+    {
+      referencia:
+        'Normas de calidad en las industrias de la madera y mueble. (s.f.).',
+      link: 'http://www.aemcm.net/archivos/normas_calidad.pdf',
+    },
+    {
+      referencia:
+        'Quispe, I., (2022, agosto 02). ¿Qué es AutoCAD y para qué sirve? ARCUX.',
+      link: 'https://arcux.net/blog/que-es-autocad-y-para-que-sirve/',
+    },
+    {
+      referencia:
+        'Solano, L., Vigo, M., Puig, A., (2001) Funciones en el modelado de sólidos y paradigmas de diseño. Secció d’Informàtica Gràfica. Departament de Llenguatges i Sistemes Informàtics Universitat Politècnica de Catalunya. 1-11. ',
       link: '',
+    },
+    {
+      referencia: 'Workana (s.f.). ¿Qué es SketchUp? Workana.com.',
+      link: 'https://i.workana.com/glosario/sketchup/',
     },
   ],
   creditos: {
