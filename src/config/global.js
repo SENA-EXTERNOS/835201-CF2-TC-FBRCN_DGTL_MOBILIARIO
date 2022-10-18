@@ -167,12 +167,71 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Atributo',
+      significado:
+        'cualidad o característica propia de una persona o una cosa, especialmente algo que es parte esencial de su naturaleza.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'CAD',
+      significado: 'Diseño Asistido por Computador.',
+    },
+    {
+      termino: 'CAM',
+      significado: 'Fabricación Asistida por Computador.',
+    },
+    {
+      termino: 'CSG',
+      significado: 'Geometría Sólida Constructiva.',
+    },
+    {
+      termino: 'Consecuente',
+      significado:
+        'resultado de lo que se ha expresado previamente o se deduce de ello.',
+    },
+    {
+      termino: 'Estandarización',
+      significado: 'acción de estandarizar.',
+    },
+    {
+      termino: 'Explosionado',
+      significado:
+        'dibujo esquemático o técnico de un objeto, que muestra la relación o el orden de ensamblaje de varias partes.',
+    },
+    {
+      termino: 'Fidelización',
+      significado: 'acción de fidelizar.',
+    },
+    {
+      termino: 'Inherente',
+      significado:
+        'elemento esencial y permanente en un ser o en una cosa, que no se puede separar de él por formar parte de su naturaleza y no depender de algo externo.',
+    },
+    {
+      termino: 'Módulo',
+      significado:
+        'elemento con función propia concebido para poder ser agrupado de distintas maneras con otros elementos constituyendo una unidad mayor.',
+    },
+    {
+      termino: 'Nativo digital',
+      significado:
+        'persona que ha crecido en la era digital, en lugar de haber adquirido familiaridad con los sistemas digitales.',
+    },
+    {
+      termino: 'Organoléptica',
+      significado: 'que se percibe con los sentidos.',
+    },
+    {
+      termino: 'Ostentoso',
+      significado: 'que muestra un lujo y riqueza excesivos.',
+    },
+    {
+      termino: 'Transversal',
+      significado:
+        'que está atravesado de una parte a otra de una cosa de manera perpendicular a su dimensión longitudinal.',
+    },
+    {
+      termino: 'Versatilidad',
+      significado: 'cualidad o condición de versátil.',
     },
   ],
   referencias: [
