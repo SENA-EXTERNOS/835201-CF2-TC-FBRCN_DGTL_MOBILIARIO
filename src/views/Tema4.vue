@@ -67,7 +67,7 @@
     .row.mb-5
       .col-lg-7.mb-4
         TabsA.color-secundario.mb-5
-          .tarjeta.color-secundario.p-4(titulo="Barridos")
+          .tarjeta.fce.p-4(titulo="Barridos")
             h3.md-5 Barridos
             p Con esta operación se crean objetos con volumen en el espacio partiendo de una figura plana o geométrica en el plano; a esta figura dependiendo el programa a utilizar se le conoce como perfil de barrido o boceto. El barrido, se hace en una dirección, la cual se realiza hacia donde se le conoce como curva de barrido. Dentro de esta operación resaltan dos en particular;
             ul.lista-ul.mb-5
@@ -78,27 +78,27 @@
                 i.lista-ul__vineta
                 | Barrido por rotación: en este caso el desplazamiento o curva de barrido se lleva a cabo con base a un ángulo determinado respecto a un eje, es decir, a lo largo de una curva en forma de circunferencia, elipse o arco.
           
-          .tarjeta.color-secundario.p-4(titulo="Operaciones booleanas")
+          .tarjeta.fce.p-4(titulo="Operaciones booleanas")
             h3.md-5 Operaciones booleanas
             p Consiste en la creación de nuevos cuerpos a partir de la intersección o interacción de varios de los mismos. Las intersecciones producidas generan áreas o volúmenes en común requeridas en el diseño de piezas o componentes.
 
 
-          .tarjeta.color-secundario.p-4(titulo="Recubrimientos")
+          .tarjeta.fce.p-4(titulo="Recubrimientos")
             h3.md-5 Recubrimientos
             p Consiste en generar superficies a partir de puntos o segmentos de cuerpos sobre los cuales se establece una capa; como su nombre lo indica en un recubrimiento.
 
-          .tarjeta.color-secundario.p-4(titulo="Redondeados")
+          .tarjeta.fce.p-4(titulo="Redondeados")
             h3.md-5 Redondeados
             p También conocida como biselado, consiste en la sustitución de vértices o aristas de cuerpos por curvas o superficies suaves; dicho de otra manera, consiste en suavizar los bordes de las figuras.
 
             
 
-          .tarjeta.color-secundario.p-4(titulo="Secciones")
+          .tarjeta.fce.p-4(titulo="Secciones")
             h3.md-5 Secciones
             p También denominada corte, consiste en la segmentación o corte de cuerpos mediante planos transversales a partir de los cuales se obtienen secciones de un cuerpo o figuras planas poligonales.
             
 
-          .tarjeta.color-secundario.p-4(titulo="Estiramientos")
+          .tarjeta.fce.p-4(titulo="Estiramientos")
             h3.md-5 Estiramientos
             p Consiste en la elongación o estiramiento de las caras o partes de una figura o cuerpo hasta un punto determinado en el espacio en el que estas se deforman proporcionalmente.
 

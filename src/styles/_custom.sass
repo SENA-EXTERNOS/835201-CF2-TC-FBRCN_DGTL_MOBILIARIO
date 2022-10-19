@@ -1,23 +1,62 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: 5s rot infinite linear;
     position: absolute
-    top: 10%
-    right: 55%
+    top: 40%
+    right: 40%
+    z-index: 2;
+  &-1 > img
+    animation: 5s rotImg infinite linear
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: 5s rot2 infinite reverse linear;
     position: absolute
-    top: 51%
-    right: 30%
+    top: 40%
+    z-index: 2;
+  &-2 > img
+    animation: 5s rotImg2 infinite linear
   &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 68%
     right: 45%
+    z-index: 2;
 .imagen-principal
     position: absolute
-    top: 17%
-    right: 35%  
+    top: 17%;
+    right: 26%;
+    z-index: 1;
+    margin-left: 20%;
+.imagen-principal img
+    z-index: 1
+.banner-principal__img  > img:first-child
+    animation: float1 2.8s ease-in-out infinite alternate
+
+@keyframes rot 
+  from 
+    transform: rotate(360deg)  translate(-150px) rotate(-360deg);
+  to 
+    transform: rotate(0deg) translate(-150px) rotate(0deg);
+ 
+ 
+@keyframes rotImg 
+  from 
+    transform: rotate(309deg) 
+  to 
+    transform: rotate(-10deg);
+
+@keyframes rot2 
+  from 
+    transform: rotate(359deg)  translate(-150px) rotate(-359deg);
+  to 
+    transform: rotate(0deg) translate(-150px) rotate(0deg);
+
+
+@keyframes rotImg2
+  from 
+    transform: rotate(100deg);
+  to 
+    transform: rotate(-269deg) 
+
 
 
 @keyframes float1
@@ -44,6 +83,12 @@
 
 .fcb
   background-color: #BFE0FA !important
+
+.fcd
+  background-color: #E3F1FC !important
+
+.fce
+  background-color: #ECFAEF !important
 
 .bloque-texto-h 
     position: relative;
@@ -74,10 +119,3 @@
     bottom: 0;
     left: 0%;
     right: 30%;
-
-
-
-
-
-
-

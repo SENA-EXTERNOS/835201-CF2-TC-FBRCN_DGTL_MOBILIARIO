@@ -24,7 +24,7 @@
     p.mb-5 Conozca algunas características de la realidad aumentada:
 
     TabsA.color-secundario.mb-5
-      .tarjeta.color-secundario.p-4(titulo="PASO 1")
+      .tarjeta.fcd.p-4(titulo="PASO 1")
         .row.justify-content-around.align-items-center
           .col-xl-6
             p El uso de dispositivos móviles como tabletas, iPads y celulares permite una rápida visualización de un producto en un espacio físico.
@@ -33,7 +33,7 @@
             figure
               img(src='@/assets/curso/temas/T3/img-2.png', alt='Texto que describa la imagen')
        
-      .tarjeta.color-secundario.p-4(titulo="PASO 2")
+      .tarjeta.fcd.p-4(titulo="PASO 2")
 
         .row.justify-content-around.align-items-center
           .col-xl-6
@@ -44,7 +44,7 @@
               img(src='@/assets/curso/temas/T3/img-3.png', alt='Texto que describa la imagen')
 
 
-      .tarjeta.color-secundario.p-4(titulo="PASO 3")
+      .tarjeta.fcd.p-4(titulo="PASO 3")
         
         .row.justify-content-around.align-items-center
           .col-xl-6
@@ -54,7 +54,7 @@
             figure
               img(src='@/assets/curso/temas/T3/img-4.png', alt='Texto que describa la imagen')
 
-      .tarjeta.color-secundario.p-4(titulo="PASO 4")
+      .tarjeta.fcd.p-4(titulo="PASO 4")
 
         .row.justify-content-around.align-items-center
           .col-xl-6
