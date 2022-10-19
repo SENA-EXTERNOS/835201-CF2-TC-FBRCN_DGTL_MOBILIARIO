@@ -40,10 +40,10 @@
           img(data-aos='fade-right')(src='@/assets/curso/temas/T6/img-3.svg', alt='')
 
       .col-xl-6
-        .bloque-texto-b.color-secundario.p-4
+        .bloque-texto-h.color-secundario.p-4
           .bloque-texto-b__texto
-            p.md-5 Cuando se refiere a la animación y modelado en 3D desde el punto de vista del diseño como tal, por lo general el diseñador utiliza las herramientas propias del programa de diseño o de dibujo mecánico para crear los atributos y propiedades en función de los materiales de las piezas que componen el producto diseñado. Durante el proceso de explosionado se pueden crear animaciones sencillas en las cuales se observa cómo se ensamblan o acoplan las piezas unas con otras. Si el diseño del producto en su uso es de tipo dinámico, es posible también asignar patrones para el movimiento en conjunto del diseño, por ejemplo; el movimiento de una mecedora o la apertura de un gabinete.
-        .row
+            p.mb-5 Cuando se refiere a la animación y modelado en 3D desde el punto de vista del diseño como tal, por lo general el diseñador utiliza las herramientas propias del programa de diseño o de dibujo mecánico para crear los atributos y propiedades en función de los materiales de las piezas que componen el producto diseñado. Durante el proceso de explosionado se pueden crear animaciones sencillas en las cuales se observa cómo se ensamblan o acoplan las piezas unas con otras. Si el diseño del producto en su uso es de tipo dinámico, es posible también asignar patrones para el movimiento en conjunto del diseño, por ejemplo; el movimiento de una mecedora o la apertura de un gabinete.
+        .row.mt-5
           .col-lg-12
             a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=081CcHl10Gw" target="_blank")
               .anexo__icono
@@ -52,7 +52,7 @@
                 p <b>Enlace web.</b> Para ver un ejemplo relacionado a este tema, haga click
 
     
-    .row
+    .row.mt-5
       .col-xl-8.mb-4
         p.mb-5 Si, por el contrario, lo que se pretende es mostrar la relación o interacción y manera en la cual el producto diseñado interactúa o contrasta con un espacio o ambiente determinado de manera dinámica, las acciones o técnicas de modelado en tres dimensiones son mucho más complejas y específicas y por lo general requieren la participación de diseñadores o animadores expertos que combinan los diseños de productos elaborados con otros programas o plataformas de animación más avanzados. Por lo general esta posibilidad de animación en tres dimensiones se utiliza con fines de muestra final o de marketing, para lo cual no es necesario o indispensable en cualquier caso que el diseñador o dibujante de productos mobiliarios maneje este tipo de recursos o técnicas avanzadas en la animación o modelado tridimensional.
         .row
@@ -80,7 +80,7 @@
             .col-sm-auto
               a.boton.color-acento-botones.texto-black(href="https://www.youtube.com/watch?v=6peY45wSpKQ&ab_channel=Makerslab" target="_blank")
                 span Enlace web
-                i.fas.fa-file-download
+                i.fas.fa-link
         
   
   
