@@ -27,36 +27,36 @@
       .col-md-8
         LineaTiempoD.color-primario
           .row(numero="1" titulo="La función que realizar")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small De manera clara y específica quedan establecidas las funciones que desempeñará el producto.
 
           .row(numero="2" titulo="Costos")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small En relación con las funciones a realizar, estos deben ser los más bajos posibles.
           
 
           .row(numero="3" titulo="Tamaño y forma ")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small Los cuales deben corresponder y estar armonizados con la función a realizar.
 
           .row(numero="4" titulo="Calidad")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small Debe estar de la mano y ser siempre consecuente con la función a realizar; para lograrla se debe equilibrar en el proceso que la mayor condición de esta no implique el incrementar los costos de una manera desmesurada, ni que sea tan baja que cause la perdida de interés de los clientes.
 
           .row(numero="5" titulo="Impacto ambiental")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small Es una característica fundamental en estos días que garantiza que ni el producto, ni sus componentes o empaque atenten contra el medio ambiente.
 
           .row(numero="6" titulo="Producción")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small Hace referencia a los recursos y medios necesarios para la fabricación de cualquier producto.
 
           .row(numero="7" titulo="Accesibilidad")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small Es la manera en la cual el cliente adquiere el producto (compra, marketing).
 
           .row(numero="8" titulo="Recipiente (empaque)")
-            .col-md-6.mb-4.mb-md-0
+            .col-md-12.mb-4.mb-md-0
               p.text-small Hace referencia a la manera en la cual el producto va empacado para la venta y el impacto que genera esto en la producción y distribución del mismo.
             
     p.mb-5 Una vez las consideraciones anteriores son establecidas por el diseñador o el equipo de diseño, se da paso a la fase de diseño detallado; en ésta y mediante la interacción y simulación se pueden llevar a cabo los programas de dibujo mecánico, en estos se diseñan, revisan y evalúan las siguientes características:
@@ -82,7 +82,7 @@
       .col-10.px-5.py-4
         .row
           .col-12.d-none.d-lg-block
-            .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+            .bloque-texto-g.fcb.p-3.p-sm-4.p-md-5.mb-5
               .bloque-texto-g__img(data-aos='fade-right')(
                 :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-4.png')})`}"
               )

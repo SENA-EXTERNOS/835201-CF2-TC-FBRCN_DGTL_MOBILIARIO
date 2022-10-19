@@ -48,55 +48,73 @@
           p.md-5 Los procedimientos que determinan o establecen la manera en la cual un ensamble debe ser ejecutado pueden llegar a ser muy diversos y complejos, por eso no se revisará una norma en particular; sin embargo, sí es importante para el diseñador que las instrucciones que permitan el ensamble de su producto sean escritas o representadas de la manera más sencilla y entendible por cualquier persona.
           p.md-5 Analice algunas generalidades para el procedimiento de ensamble de mobiliario en la siguiente infografía y tenga en cuenta algunas normas.
   
-    ImagenInfografica.color-secundario.mb-5
+    ImagenInfograficaB.color-secundario.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/T5/img-4.svg', alt='Texto que describa la imagen')
 
-      .tarjeta.color-acento-botones.p-3(x="10%" y="20%" tooltip="Normas de diseño" numero="+")
-        .h5.mb-2 Normas de diseño.
-        p Algunas de las normas internacionales más utilizadas para el diseño de mobiliario corresponden a las utilizadas en dibujo técnico, la ingeniería y el diseño, entre ellas se encuentran:
-        ul.lista-ul.mb-5
-          li 
-            i.lista-ul__vineta
-            | ISO 128-1:2008 “Dibujo técnico. Principios generales de presentación”
-          li 
-            i.lista-ul__vineta
-            | ASME Y14.1002017 “Prácticas de dibujo de ingeniería”
+      div(x="10%" y="20%" tooltip="Normas de diseño" numero="+")
+        .row.justify-content-around.align-items-center
+          .col-md.col-lg-3
+            img(src="@/assets/curso/temas/T5/img-5.png")
+          .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
+            .h5.mb-2 Normas de diseño.
+            p Algunas de las normas internacionales más utilizadas para el diseño de mobiliario corresponden a las utilizadas en dibujo técnico, la ingeniería y el diseño, entre ellas se encuentran:
+            ul.lista-ul.mb-5
+              li 
+                i.lista-ul__vineta
+                | ISO 128-1:2008 “Dibujo técnico. Principios generales de presentación”
+              li 
+                i.lista-ul__vineta
+                | ASME Y14.1002017 “Prácticas de dibujo de ingeniería”
+            
+          
 
-      .tarjeta.color-acento-botones.p-3(x="10%" y="96%" tooltip="Normas de seguridad en la fabricación" numero="+")
-        .h5.mb-2 Normas de seguridad en la fabricación.
-        p En Colombia se resalta una condición normativa en particular de cumplimiento obligatorio para todas la empresas, organizaciones y trabajadores a nivel de seguridad en el trabajo y también existen normas asimilables que son utilizadas para garantizar las condiciones seguras en los lugares de trabajo:
-        ul.lista-ul.mb-5
-          li 
-            i.lista-ul__vineta
-            | Decreto 1072 de 2015: campo de aplicación y política de seguridad y salud en el trabajo en el SG-SST; establece las condiciones mínimas que se requieren en los lugares de trabajo para la seguridad y salud en el trabajo.
-          li 
-            i.lista-ul__vineta
-            | ISO 45001:2018: sistema de gestión de la seguridad y salud en el trabajo; es una norma de carácter internacional que provee los lineamientos a las empresas interesadas en mejorar su desempeño en la salud y seguridad en el trabajo.
+      div(x="10%" y="96%" tooltip="Normas de seguridad en la fabricación" numero="+")
+        .row.justify-content-around.align-items-center
+          .col-md.col-lg-3
+            img(src="@/assets/curso/temas/T5/img-7.png")
+          .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
+            .h5.mb-2 Normas de seguridad en la fabricación.
+            p En Colombia se resalta una condición normativa en particular de cumplimiento obligatorio para todas la empresas, organizaciones y trabajadores a nivel de seguridad en el trabajo y también existen normas asimilables que son utilizadas para garantizar las condiciones seguras en los lugares de trabajo:
+            ul.lista-ul.mb-5
+              li 
+                i.lista-ul__vineta
+                | Decreto 1072 de 2015: campo de aplicación y política de seguridad y salud en el trabajo en el SG-SST; establece las condiciones mínimas que se requieren en los lugares de trabajo para la seguridad y salud en el trabajo.
+              li 
+                i.lista-ul__vineta
+                | ISO 45001:2018: sistema de gestión de la seguridad y salud en el trabajo; es una norma de carácter internacional que provee los lineamientos a las empresas interesadas en mejorar su desempeño en la salud y seguridad en el trabajo.
 
 
 
-      .tarjeta.color-acento-botones.p-3(x="58%" y="20%" tooltip="Normas para la fabricación y ensayos." numero="+")
-        .h5.mb-2 Normas para la fabricación.
-        p La aplicabilidad y uso de normas orientadas a la fabricación, así como a las pruebas de resistencia de los mobiliarios varían y dependen de los países en donde se produzcan o donde se quieran comercializar los productos; en este caso se tienen algunas como:
-        ul.lista-ul.mb-5
-          li 
-            i.lista-ul__vineta
-            | UNE-EN 1021-1:1994 MOBILIARIO “Valoración de la inflamabilidad del mobiliario tapizado.”
-          li 
-            i.lista-ul__vineta
-            | UNE 11016:1989 ARMARIOS Y MUEBLES SIMILARES. “Métodos de ensayo para determinar la resistencia estructural”
-          li 
-            i.lista-ul__vineta
-            | UNE 11017:1989 ARMARIOS Y MUEBLES SIMILARES. “Métodos de ensayo para determinar la estabilidad”
-          li 
-            i.lista-ul__vineta
-            | UNE 11023-1:1992 ARMARIOS Y MUEBLES SIMILARES PARA USO DOMESTICO Y PÚBLICO. “Características funcionales y especificaciones”
+      div(x="58%" y="20%" tooltip="Normas para la fabricación y ensayos." numero="+")
+        .row.justify-content-around.align-items-center
+          .col-md.col-lg-3
+            img(src="@/assets/curso/temas/T5/img-6.png")
+          .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
+            .h5.mb-2 Normas para la fabricación y ensayos.
+            p La aplicabilidad y uso de normas orientadas a la fabricación, así como a las pruebas de resistencia de los mobiliarios varían y dependen de los países en donde se produzcan o donde se quieran comercializar los productos; en este caso se tienen algunas como:
+            ul.lista-ul.mb-5
+              li 
+                i.lista-ul__vineta
+                | UNE-EN 1021-1:1994 MOBILIARIO “Valoración de la inflamabilidad del mobiliario tapizado.”
+              li 
+                i.lista-ul__vineta
+                | UNE 11016:1989 ARMARIOS Y MUEBLES SIMILARES. “Métodos de ensayo para determinar la resistencia estructural”
+              li 
+                i.lista-ul__vineta
+                | UNE 11017:1989 ARMARIOS Y MUEBLES SIMILARES. “Métodos de ensayo para determinar la estabilidad”
+              li 
+                i.lista-ul__vineta
+                | UNE 11023-1:1992 ARMARIOS Y MUEBLES SIMILARES PARA USO DOMESTICO Y PÚBLICO. “Características funcionales y especificaciones”
       
-      .tarjeta.color-acento-botones.p-3(x="58%" y="96%" tooltip="Ensamble de mobiliario" numero="+")
-        .h5.mb-2 Ensamble de mobiliario.
-        p La elaboración de un procedimiento para ensamble de mobiliario, este debe ser de la forma más clara y sencilla posible de tal manera que le permita al cliente entender cómo unir partes y piezas de manera rápida y sencilla mediante la utilización de la menor cantidad de herramientas o accesorios posibles. Los programas de diseño y dibujo mecánico cuentan con opciones de explosionado de partes que son utilizados por los diseñadores para la creación de procedimientos y paso a paso en el ensamble.
+      div(x="58%" y="96%" tooltip="Ensamble de mobiliario" numero="+")
+        .row.justify-content-around.align-items-center
+          .col-md.col-lg-3
+            img(src="@/assets/curso/temas/T5/img-8.png")
+          .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
+            .h5.mb-2 Ensamble de mobiliario.
+            p La elaboración de un procedimiento para ensamble de mobiliario, este debe ser de la forma más clara y sencilla posible de tal manera que le permita al cliente entender cómo unir partes y piezas de manera rápida y sencilla mediante la utilización de la menor cantidad de herramientas o accesorios posibles. Los programas de diseño y dibujo mecánico cuentan con opciones de explosionado de partes que son utilizados por los diseñadores para la creación de procedimientos y paso a paso en el ensamble.
 
 
 
