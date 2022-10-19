@@ -77,7 +77,6 @@
                   br 
                   p.mb-5 es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. El modularidad tiene entre otros objetivos garantizar la estandarización de la producción. 
 
-
     .row.mt-5
       .col-10.px-5.py-4
         .row
