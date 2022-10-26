@@ -90,7 +90,7 @@
                 br
                 br 
                 p.mb-5 hace referencia a la condición adecuada y óptima que el producto presenta al momento de ser utilizado. Esta condición debe coincidir con lo establecido en las fases preliminares del proceso de diseño. Las propiedades de calidad de las materias primas y componentes que hacen parte del diseño del producto garantizan por ende en mayor o menor medida esta condición. 
-
+              
 
       .col-10.offset-2.bg-amarillo-claro.borde-der-secundario-19.px-5.py-4.mt-5
         .row
