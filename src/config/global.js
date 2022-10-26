@@ -45,7 +45,8 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Principales softwares utilizados en el diseño de mobiliarios',
+        titulo:
+          'Principales <i>softwares</i> utilizados en el diseño de mobiliarios',
         desarrolloContenidos: true,
       },
       {

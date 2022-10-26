@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/T6/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El modelado en 3D reúne muchos tipos de técnicas, desde las más sencillas; las cuales se revisaran en esta sección, hasta las más complejas; empleadas en procesos constructivos de industrias como la aeroespacial, el transporte y la bioquímica.
+        p.mb-0 El modelado en 3D reúne muchos tipos de técnicas, desde las más sencillas; las cuales se revisarán en esta sección, hasta las más complejas; empleadas en procesos constructivos de industrias como la aeroespacial, el transporte y la bioquímica.
 
     .row.justify-content-around.align-items-center.md-5 
       .col-xl-8.mb-4

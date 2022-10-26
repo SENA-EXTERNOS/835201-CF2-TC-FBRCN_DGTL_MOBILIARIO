@@ -7,16 +7,16 @@
         span 1
       h1 Diseño de producto
 
-    .row.mb-7.md-5
-      .col-md-5.mb-3.mb-md-0(data-aos='fade-right')
+    .row.md-5
+      .col-xl-6.mb-4(data-aos='fade-right')
         figure
           img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-1.png', alt='Obrero')
 
-      .col-md-5
-        p.mb-5 En este estudio se desarrollarán las consideraciones y aspectos relacionados al diseño trabajado desde programas computacionales; esto teniendo en cuenta el criterio de calidad y la manera en la cual este concepto permite la fidelización de un mercado.
-        p.mb-5 El diseñador o equipo de diseño al momento de iniciar el proceso constructivo mediante un programa computacional de dibujo mecánico o de diseño, se encuentra en lo que puede denominarse como la fase de diseño preliminar; en esta y de la mano de los bocetos o sketches previos, se plasmarán las principales características que conformarán el producto final y se revisan varios aspectos.
-        .bloque-texto-b.color-secundario.p-5
+      .col-xl-6
+        .bloque-texto-h.color-secundario.p-4
           .bloque-texto-b__texto
+            p.mb-5 En este estudio se desarrollarán las consideraciones y aspectos relacionados al diseño trabajado desde programas computacionales; esto teniendo en cuenta el criterio de calidad y la manera en la cual este concepto permite la fidelización de un mercado.
+            p.mb-5 El diseñador o equipo de diseño al momento de iniciar el proceso constructivo mediante un programa computacional de dibujo mecánico o de diseño, se encuentra en lo que puede denominarse como la fase de diseño preliminar; en esta y de la mano de los bocetos o sketches previos, se plasmarán las principales características que conformarán el producto final y se revisan varios aspectos.
     
     .row.mb-5.md-5
       .col-md-4.mb-5.mb-md-0
