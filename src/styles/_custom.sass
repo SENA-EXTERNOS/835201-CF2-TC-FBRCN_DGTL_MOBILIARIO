@@ -189,7 +189,8 @@
 
 
 .banner-interno__fondo
-  background-image: url("../assets/curso/portada/fondo-banner-principal.png") !important
+  background-image: url("../assets/curso/portada/fondo-banner-interno.png") !important
+  background-color: white !important
 
 @media only screen and (max-width: 600px) 
   .scroll-x-tabla
@@ -199,3 +200,24 @@
   .scroll-x-tabla::-webkit-scrollbar-thumb 
     background: #FFD947;
 
+// Introduccion
+
+.fondo1
+  background-image: url("../assets/curso/temas/introduccion/fondointro.png")
+  background-repeat: no-repeat
+  background-position: top left
+  background-color: $color-adicional-1
+
+@media screen and ( max-width: 767px )
+  .fondo1
+    background-image: none !important
+
+  .img-250
+    width: 300px !important
+    justify-content: center!important
+    display: block
+    margin: 0 auto
+    margin-top: 3rem
+
+.color-gris
+  background-color: #EFEFEF !important

@@ -102,18 +102,16 @@
 
 
 
-    .tarjeta.fcp.p-4.p-md-5
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          p.mb-4 En este ejemplo se observa cómo mediante la operación de corte con un plano inclinado en la parte superior de la figura se obtiene una boca más estilizada del recipiente diseñado. 
-
-        .col-md.col-lg-6
-          img(src="@/assets/curso/temas/T4/img-9.svg")
+    
         
-    .row 
-      img(src="@/assets/curso/temas/T4/img-10.png")
-      .col-6
-        p text
+    .tarjeta.p-4.p-md-5.mb-5.fondo1.color-gris(data-aos="fade-down")
+      .row.justify-content-end.align-items-center
+        .col-md-5.order-md-first.order-sm-last
+          p.py-5 En este ejemplo se observa cómo mediante la operación de corte con un plano inclinado en la parte superior de la figura se obtiene una boca más estilizada del recipiente diseñado. 
+
+        .col-md-6.mb-4.mb-md-0.order-md-last.order-sm-first
+          figure
+            img(src="@/assets/curso/temas/T4/img-10.png")
     
 
 
