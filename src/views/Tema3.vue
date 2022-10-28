@@ -10,7 +10,7 @@
     .row
       .col-xl-8.mb-4
         p.mb-5 Las tecnologías 4.0, o emergentes como también se les conoce han incursionado en todos los campos de la industria para potenciar y maximizar los procesos de diseño, producción, venta y comercialización de productos y/o servicios. La correcta y acertada escogencia de estos tipos de tecnologías permite que se puedan recrear y representar diferentes condiciones en el uso de estos.
-        .cajon.color-acento-botones.p-4.mb-4
+        .cajon.fch.p-4.mb-4
           p Con respecto a los espacios para el mercado, es importante tener en cuenta que el público o mercado con mayor demanda de productos mobiliarios es el de familias jóvenes o personas entre los 20 y 45 años, rangos de edades que se conocen como <i>“millenials”</i> y <i>“centenials”</i>. Este público en particular es considerado como nativo digital; por eso para ellos las herramientas y estrategias digitales deben maximizar experiencias, vivencias y diseños para así generar un alto impacto e intervenir directamente en la decisión de compra.
         p.mb-5 Los programas o <i>softwares</i> utilizados en el proceso de diseño mobiliario permiten exportar a plataformas o programas para realidad aumentada o virtual. Observe algunas características a continuación.
 

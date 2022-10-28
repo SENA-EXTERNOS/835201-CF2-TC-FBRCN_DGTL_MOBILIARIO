@@ -110,6 +110,10 @@
         .col-md.col-lg-6
           img(src="@/assets/curso/temas/T4/img-9.svg")
         
+    .row 
+      img(src="@/assets/curso/temas/T4/img-10.png")
+      .col-6
+        p text
     
 
 

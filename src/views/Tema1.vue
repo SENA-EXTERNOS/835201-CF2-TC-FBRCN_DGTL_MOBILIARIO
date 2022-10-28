@@ -10,14 +10,15 @@
     .row.md-5
       .col-xl-6.mb-4(data-aos='fade-right')
         figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-1.png', alt='Obrero')
+          img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-1.png', alt='Sillas')
 
       .col-xl-6
-        .bloque-texto-h.color-secundario.p-4
+        .bloque-texto-q.color-secundario.p-4
           .bloque-texto-b__texto
             p.mb-5 En este estudio se desarrollarán las consideraciones y aspectos relacionados al diseño trabajado desde programas computacionales; esto teniendo en cuenta el criterio de calidad y la manera en la cual este concepto permite la fidelización de un mercado.
             p.mb-5 El diseñador o equipo de diseño al momento de iniciar el proceso constructivo mediante un programa computacional de dibujo mecánico o de diseño, se encuentra en lo que puede denominarse como la fase de diseño preliminar; en esta y de la mano de los bocetos o sketches previos, se plasmarán las principales características que conformarán el producto final y se revisan varios aspectos.
-    
+        
+
     .row.mb-5.md-5
       .col-md-4.mb-5.mb-md-0
         h3.mb-5 Observe algunos de los aspectos tenidos en cuenta en la fase de diseño preliminar.
@@ -63,47 +64,42 @@
 
 
 
-
-    .col-10.offset-2.bg-amarillo-claro.borde-der-secundario-19.px-5.py-4.mt-5
-      .row
-        .col-12.d-none.d-lg-block
-          .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
-                .bloque-texto-g__img(data-aos='fade-right')(
-                  :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-3.png')})`}"
-                )
-                .bloque-texto-g__texto.p-4
-                  h3 Modularidad
-                  br
-                  br 
-                  p.mb-5 es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. El modularidad tiene entre otros objetivos garantizar la estandarización de la producción. 
-
-    .row.mt-5
-      .col-10.px-5.py-4
-        .row
-          .col-12.d-none.d-lg-block
-            .bloque-texto-g.fcb.p-3.p-sm-4.p-md-5.mb-5
-              .bloque-texto-g__img(data-aos='fade-right')(
-                :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-4.png')})`}"
-              )
-              .bloque-texto-g__texto.p-4
-                h3 Fiabilidad
-                br
-                br 
-                p.mb-5 hace referencia a la condición adecuada y óptima que el producto presenta al momento de ser utilizado. Esta condición debe coincidir con lo establecido en las fases preliminares del proceso de diseño. Las propiedades de calidad de las materias primas y componentes que hacen parte del diseño del producto garantizan por ende en mayor o menor medida esta condición. 
-              
-
+    .scroll-x-tabla
       .col-10.offset-2.bg-amarillo-claro.borde-der-secundario-19.px-5.py-4.mt-5
         .row
-          .col-12.d-none.d-lg-block
-           .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
-              .bloque-texto-g__img(data-aos='fade-right')(
-                :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-5.png')})`}"
-              )
-              .bloque-texto-g__texto.p-4
-                h3 Seguridad
-                br
-                br 
-                p.mb-5 es la condición que está enfocada en la capacidad que tiene un producto de no afectar la integridad física del usuario o cliente o los bienes físicos dispuestos en el ambiente en el cual será preparado para el uso el producto. Está, por lo general está sujeta a normas legales que pueden variar en función de los mercados en los que se quiera comercializar el producto.
+          .col-12.d-lg-block
+            .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
+                  .bloque-texto-g__img(data-aos='fade-right')(
+                    :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-3.png')})`}"
+                  )
+                  .bloque-texto-g__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'right'}")
+                    h3.mb-5 Modularidad
+                    p.mb-5 es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. El modularidad tiene entre otros objetivos garantizar la estandarización de la producción. 
+
+      .row.mt-5
+        .col-10.px-5.py-4
+          .row
+            .col-12.d-lg-block
+              .bloque-texto-x.fcb.p-3.p-sm-4.p-md-5.mb-5
+                .bloque-texto-x__img(data-aos='fade-right')(
+                  :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-4.png')})`}"
+                )
+                .bloque-texto-x__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'left'}")
+                  h3.mb-5 Fiabilidad
+                  p.mb-5 hace referencia a la condición adecuada y óptima que el producto presenta al momento de ser utilizado. Esta condición debe coincidir con lo establecido en las fases preliminares del proceso de diseño. Las propiedades de calidad de las materias primas y componentes que hacen parte del diseño del producto garantizan por ende en mayor o menor medida esta condición. 
+      
+      
+
+        .col-10.offset-2.bg-amarillo-claro.borde-der-secundario-19.px-5.py-4.mt-5
+          .row
+            .col-12.d-lg-block
+            .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5
+                .bloque-texto-g__img(data-aos='fade-right')(
+                  :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-5.png')})`}"
+                )
+                .bloque-texto-g__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'right'}")
+                  h3.mt-5 Seguridad 
+                  p.mb-5 es la condición que está enfocada en la capacidad que tiene un producto de no afectar la integridad física del usuario o cliente o los bienes físicos dispuestos en el ambiente en el cual será preparado para el uso el producto. Está, por lo general está sujeta a normas legales que pueden variar en función de los mercados en los que se quiera comercializar el producto.
 
 
 

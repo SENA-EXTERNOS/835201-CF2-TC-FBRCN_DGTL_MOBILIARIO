@@ -96,6 +96,19 @@
 .fcg
   background-color: #C3E2FD !important
 
+.fch
+  background-color: #CDF0E4 !important
+
+.banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6 
+    color: #12263F !important
+    line-height: 1.1em
+
+  
+
+
+.tarjeta--gris 
+  background-color: #DEE4F0;
+
 .bloque-texto-h 
     position: relative;
 
@@ -125,3 +138,64 @@
     bottom: 0;
     left: 0%;
     right: 30%;
+
+.bloque-texto-q 
+    position: relative;
+
+.bloque-texto-q.color-secundario:before 
+    background-color: #E8F9EB;
+
+.bloque-texto-q:before 
+    content: '';
+    display: block;
+    position: absolute;
+    top: 70%;
+    bottom: 0;
+    left: 30%;
+    right: 0%;
+
+.bloque-texto-z 
+    position: relative;
+
+.bloque-texto-z.color-secundario:before 
+    background-color: #E8F9EB;
+
+.bloque-texto-z:before 
+    content: '';
+    display: block;
+    position: absolute;
+    top: 60%;
+    bottom: 0;
+    left: 30%;
+    right: 0%;
+
+.bloque-texto-x 
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+
+.bloque-texto-x__img
+    width: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-position: right;
+    background-size: cover;
+.bloque-texto-x__texto 
+    position: relative;
+    width: 60%;
+    background-color: rgba(255, 255, 255, 0.95);
+
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-principal.png") !important
+
+@media only screen and (max-width: 600px) 
+  .scroll-x-tabla
+    overflow-x: auto !important;
+  .scroll-x-tabla::-webkit-scrollbar
+    height: 5px;  
+  .scroll-x-tabla::-webkit-scrollbar-thumb 
+    background: #FFD947;
+

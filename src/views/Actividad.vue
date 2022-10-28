@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
+          h2 Actividad didáctica 
         p.mb-4 #[b Objetivo] En la actividad presentada a continuación se podrán encontrar conceptos que serán de ayuda para afianzar el conocimiento de los temas estudiados. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
