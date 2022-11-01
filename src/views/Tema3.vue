@@ -82,7 +82,7 @@
       LineaTiempoC.color-primario(text-small)
         .row.justify-content-between.align-items-center(titulo="Paso 1")
           .col-md-8.mb-4.mb-md-0
-            p El uso de dispositivos móviles como tabletas, iPads y celulares permite una rápida visualización de un producto en un espacio físico.
+            p La realidad virtual trasporta al usuario o diseñador a espacio específico.
         
           .col-md-4
             figure
@@ -91,7 +91,7 @@
 
         .row.justify-content-between.align-items-center(titulo="Paso 2")
           .col-md-8.mb-4.mb-md-0
-            p La recreación de productos en la realidad aumentada también se puede lograr a través del reconocimiento de patrones impresos en medios físicos como hojas, planos o libros.
+            p En la realidad virtual se pueden utilizar controles o accesorios que le permiten al diseñador o usuario interactuar con el espacio o el producto.
         
           .col-md-4
             figure
@@ -100,7 +100,7 @@
 
         .row.justify-content-between.align-items-center(titulo="Paso 3")
           .col-md-8.mb-4.mb-md-0
-            p La realidad aumentada ayuda al diseñador a configurar el producto en función del espacio.
+            p La realidad virtual es una excelente herramienta para evaluar y experimentar la ergonomía y sensación en personas con restricciones de movilidad.
         
           .col-md-4
             figure
@@ -108,7 +108,7 @@
 
         .row.justify-content-between.align-items-center(titulo="Paso 4")
           .col-md-8.mb-4.mb-md-0
-            p La realidad aumentada se utiliza en muchas industrias como apoyo y herramienta de diseño.
+            p La experimentación a través de realidad virtual repercute en un gran porcentaje en la decisión de compra de nuevos clientes.
         
           .col-md-4
             figure
