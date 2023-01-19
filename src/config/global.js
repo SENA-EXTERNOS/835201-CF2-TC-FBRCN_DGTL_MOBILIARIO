@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diseño de productos mobiliarios',
     descripcionCurso:
-      'Este componente desarrolla los aspectos y temáticas para el diseño, dibujo y modelado desde los principales softwares de dibujo mecánico y de diseño de piezas, necesarios para una etapa de producción. Se revisarán de manera general las principales consideraciones en torno a la calidad y principios de la preproducción de productos mobiliarios. ',
+      'Este componente desarrolla los aspectos y temáticas para el diseño, dibujo y modelado desde los principales <em>software</em> de dibujo mecánico y de diseño de piezas, necesarios para una etapa de producción. Se revisarán, de manera general, las principales consideraciones en torno a la calidad y principios de la preproducción de productos mobiliarios.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal-1.png'),
     imagenesDecorativasBanner: [
@@ -46,7 +46,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '2',
         titulo:
-          'Principales <i>softwares</i> utilizados en el diseño de mobiliarios',
+          'Principales <em>software</em> utilizados en el diseño de mobiliarios',
         desarrolloContenidos: true,
       },
       {
@@ -143,7 +143,7 @@ export default {
     {
       tema: 'Diseño de producto',
       referencia:
-        'Alarcón, F,. Albarracín, J,.García, J,. (2004). Tema 2 Diseño del producto, Diseño de sistemas productivos y logísticos. En Problemas resueltos de diseño de sistemas productivos y logísticos (pp. 1-53). Departamento de Organización de Empresas, E.F. y C. ',
+        'Alarcón, F., Albarracín, J. &García, J. (2004). Tema 2 Diseño del producto, Diseño de sistemas productivos y logísticos. <em>Problemas resueltos de diseño de sistemas productivos y logísticos,</em> p. 1-53. ',
       tipo: 'Curso 04 / 05',
       link:
         'http://personales.upv.es/jpgarcia/LinkedDocuments/2DisennodeProducto.pdf',
@@ -151,7 +151,7 @@ export default {
     {
       tema: 'Operaciones con sólidos',
       referencia:
-        'Revatta, J,. (2016).. Dibujo para diseño de ingeniería II. Universidad Continental. ',
+        'Revatta, J. (2016). <em>Dibujo para diseño de ingeniería II.</em> Universidad Continental.  ',
       tipo:
         'Documento con herramientas y conceptos para el dibujo de ingeniería.',
       descarga:
@@ -166,15 +166,15 @@ export default {
     },
     {
       termino: 'CAD',
-      significado: 'Diseño Asistido por Computador.',
+      significado: 'diseño Asistido por Computador.',
     },
     {
       termino: 'CAM',
-      significado: 'Fabricación Asistida por Computador.',
+      significado: 'fabricación Asistida por Computador.',
     },
     {
       termino: 'CSG',
-      significado: 'Geometría Sólida Constructiva.',
+      significado: 'geometría Sólida Constructiva.',
     },
     {
       termino: 'Consecuente',
@@ -230,16 +230,16 @@ export default {
   referencias: [
     {
       referencia:
-        'Graitec (2018, noviembre 21). 10 razones para utilizar Fusion 360. Graitec 2ACAD-ARKTEC. ',
+        'Graitec. (2018). <em>10 razones para utilizar Fusion 360.</em> Graitec 2ACAD-ARKTEC ',
       link: 'https://www.2acad.es/10-razones-para-utilizar-fusion-360/',
     },
     {
       referencia:
-        'Marchanteeste, A. (2022, mayo 10). TinkerCAD: ¡Te contamos todo lo que necesitas saber! 3D natives el sitio web de la impresión 3D.',
+        'Marchanteeste, A. (2022). <em> TinkerCAD: ¡Te contamos todo lo que necesitas saber! </em>3D natives el sitio web de la impresión 3D.',
       link: 'https://www.3dnatives.com/es/tinkercad-software-200420202/',
     },
     {
-      referencia: 'McNeel (2022). Características. Rhinoceros.',
+      referencia: 'McNeel. (2022). <em>Características</em>. Rhinoceros. ',
       link: 'https://www.rhino3d.com/features/ ',
     },
     {
@@ -249,16 +249,16 @@ export default {
     },
     {
       referencia:
-        'Quispe, I., (2022, agosto 02). ¿Qué es AutoCAD y para qué sirve? ARCUX.',
+        'Quispe, I. (2022). <em>¿Qué es AutoCAD y para qué sirve?</em> ARCUX.',
       link: 'https://arcux.net/blog/que-es-autocad-y-para-que-sirve/',
     },
     {
       referencia:
-        'Solano, L., Vigo, M., Puig, A., (2001) Funciones en el modelado de sólidos y paradigmas de diseño. Secció d’Informàtica Gràfica. Departament de Llenguatges i Sistemes Informàtics Universitat Politècnica de Catalunya. 1-11. ',
+        'Solano, L., Vigo, M. & Puig, A. (2001). Funciones en el modelado de sólidos y paradigmas de diseño. Secció d’Informàtica Gràfica. <em>Departament de Llenguatges i Sistemes Informàtics Universitat Politècnica de Catalunya,</em> p. 1-11.  ',
       link: '',
     },
     {
-      referencia: 'Workana (s.f.). ¿Qué es SketchUp? Workana.com.',
+      referencia: 'Workana. (s.f.). <em>¿Qué es SketchUp?</em> Workana.com.',
       link: 'https://i.workana.com/glosario/sketchup/',
     },
   ],

@@ -23,7 +23,9 @@
 
 
     p.md-5 El uso de las técnicas para el modelado 3D depende de la versatilidad, dominio y manejo que posea el diseñador al momento de construir de manera virtual un producto; es por esto que para el tema se revisarán modelados en 3 dimensiones con un video ilustrativo de los programas vistos antes.
-    p.md-5 Este es un ejemplo del empleo de un software de dibujo mecánico como Solid Edge, su interfaz es similar a otros como Solid Works o Inventor. 
+      br
+      br
+      |Este es un ejemplo del empleo de un software de dibujo mecánico como Solid Edge, su interfaz es similar a otros como Solid Works o Inventor.
 
     .row.mt-5.mb-5
       .col-12

@@ -29,7 +29,6 @@
         .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
           p.md-5 En esta sección se enunciarán de manera muy general algunas de las normas más básicas que abarcan el dibujo y diseño de partes y piezas de mobiliario. Se recomienda al estudiante con asesoría del instructor revisar la aplicabilidad de estas dentro de los procesos constructivos deseados a elaborar. 
           p.md-5 Es importante tomar como marco referencia el mercado al cual se espera llegar con el producto ya que, en función de estos, existen requisitos reglamentarios para el diseño y pruebas de calidad o resistencia, las cuales condicionan la posibilidad de venta. 
-          p.md-5 Para ampliar este tema, revise la infografía que se presenta más adelante.
 
         .col-md.col-lg-6
           img(src="@/assets/curso/temas/T5/img-2.svg")
@@ -45,8 +44,10 @@
           img(src="@/assets/curso/temas/T5/img-3.svg")
 
         .col-md.col-lg-6
-          p.md-5 Los procedimientos que determinan o establecen la manera en la cual un ensamble debe ser ejecutado pueden llegar a ser muy diversos y complejos, por eso no se revisará una norma en particular; sin embargo, sí es importante para el diseñador que las instrucciones que permitan el ensamble de su producto sean escritas o representadas de la manera más sencilla y entendible por cualquier persona.
-          p.md-5 Analice algunas generalidades para el procedimiento de ensamble de mobiliario en la siguiente infografía y tenga en cuenta algunas normas.
+          p.md-5 Los procedimientos que determinan o establecen la manera en la cual un ensamble debe ser ejecutado pueden llegar a ser muy diversos y complejos, por eso no se revisará una norma en particular; sin embargo, sí es importante para el diseñador que las instrucciones que permitan el ensamble de su producto sean escritas o representadas de la manera más sencilla y entendible por cualquier persona
+            br
+            br
+            |Analice algunas generalidades para el procedimiento de ensamble de mobiliario en la siguiente infografía y tenga en cuenta algunas normas:
   
     ImagenInfograficaB.color-secundario.mb-5
       template(v-slot:imagen)

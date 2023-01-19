@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Principales softwares utilizados en el diseño de mobiliarios 
+      h1 Principales #[em software] utilizados en el diseño de mobiliarios
       
 
     .row.md-5
@@ -16,11 +16,13 @@
       .col-xl-6
         .bloque-texto-q.color-secundario.p-4
           .bloque-texto-b__texto
-            p.mb-5 Los softwares para el mercado del dibujo mecánico y diseño de productos utilizados en la industria del mobiliario le permiten al diseñador crear a partir de planos o esquemas en dos dimensiones productos en tres dimensiones; esto mediante procesos de transformación y modelado, así como también la recreación de simulaciones en ambientes o espacios en los que se proyecta que sea utilizado el producto.
-            p.mb-5 Es importante indicar que, de acuerdo con el tipo o clase de programa utilizado en el diseño de mobiliarios existen requerimientos mínimos que deben cumplir los equipos de cómputo en los cuales se trabajará. Para esto se recomienda visitar el sitio web de cada uno y revisar los requisitos mínimos del equipo.
+            p.mb-5 Los software para el mercado del dibujo mecánico y diseño de productos utilizados en la industria del mobiliario, le permiten al diseñador crear a partir de planos o esquemas en dos dimensiones, productos en tres dimensiones; esto mediante procesos de transformación y modelado, así como también la recreación de simulaciones en ambientes o espacios, en los que se proyecta que el producto se va a utilizar.
+              br
+              br
+              |Es importante indicar que, de acuerdo con el tipo o clase de programa utilizado en el diseño de mobiliarios, existen requerimientos mínimos que deben cumplir los equipos de cómputo en los cuales se trabajará. Para esto, se recomienda visitar el sitio web de cada uno y revisar los requisitos mínimos del equipo.
         
 
-    p.md-5 En esta infografía se presentan algunos de los principales programas o softwares más utilizados en el diseño de mobiliarios con sus características más representativas. 
+    p.md-5 En esta infografía se presentan algunos de los principales programas o #[em software] más utilizados en el diseño de mobiliario, con sus características más representativas: 
 
 
     ImagenInfograficaB.color-secundario.mb-5
@@ -33,7 +35,7 @@
           .col-md.col-lg-3
             img(src="@/assets/curso/temas/T2/img-3.png")
           .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
-            .h5.mb-2 Autodesk Fusion 360
+            .h5.mb-2 Autodesk Fusion 360.
             p.md-5 Es una herramienta integral de diseño de productos se empieza por el diseño para llegar al mejor concepto de este. Luego se pasa a la ingeniería de producción utilizando fácilmente el diseño conceptual. Finalmente, se prepara el diseño para la fabricación utilizando CAM integrado de 2 y 3 ejes o utilizando la utilidad de impresión 3D para la fabricación aditiva. Todo, en una sola plataforma. 
             p.md-5 Fusion 360 incluye un modelado directo y flexible en tiempo real, así como un modelado paramétrico basado en características, permite generar rápidamente alternativas de diseño de alto rendimiento desde una sola idea. 
             p.md-5 Se debe resaltar que con el diseño generativo no hay una solución única; en cambio hay potencialmente miles de grandes soluciones. Se puede analizar el diseño bajo diferentes condiciones utilizando diferentes materiales, cargas y restricciones. Además, se pueden realizar estudios de estrés térmico y no lineal. (Graitec, 2018). 

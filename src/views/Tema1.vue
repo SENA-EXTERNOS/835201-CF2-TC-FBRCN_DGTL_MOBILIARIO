@@ -21,7 +21,7 @@
 
     .row.mb-5.md-5
       .col-md-4.mb-5.mb-md-0
-        h3.mb-5 Observe algunos de los aspectos tenidos en cuenta en la fase de diseño preliminar.
+        h3.mb-5 Observemos algunos de los aspectos que se deben tener en cuenta, en la fase de diseño preliminar:
         figure
           img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-2.png', alt='')
 
@@ -73,8 +73,8 @@
                     :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-3.png')})`}"
                   )
                   .bloque-texto-g__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'right'}")
-                    h3.mb-5 Modularidad
-                    p.mb-5 es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. El modularidad tiene entre otros objetivos garantizar la estandarización de la producción. 
+                    p.mb-5 #[span.h3 Modularidad: ] 
+                      span es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. El modularidad tiene entre otros objetivos garantizar la estandarización de la producción. 
 
       .row.mt-5
         .col-10.px-5.py-4
@@ -85,8 +85,8 @@
                   :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-4.png')})`}"
                 )
                 .bloque-texto-x__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'left'}")
-                  h3.mb-5 Fiabilidad
-                  p.mb-5 hace referencia a la condición adecuada y óptima que el producto presenta al momento de ser utilizado. Esta condición debe coincidir con lo establecido en las fases preliminares del proceso de diseño. Las propiedades de calidad de las materias primas y componentes que hacen parte del diseño del producto garantizan por ende en mayor o menor medida esta condición. 
+                  p.mb-5 #[span.h3 Fiabilidad:] 
+                    span hace referencia a la condición adecuada y óptima que el producto presenta al momento de ser utilizado. Esta condición debe coincidir con lo establecido en las fases preliminares del proceso de diseño. Las propiedades de calidad de las materias primas y componentes que hacen parte del diseño del producto garantizan por ende en mayor o menor medida esta condición.
       
       
 
@@ -98,8 +98,8 @@
                   :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-5.png')})`}"
                 )
                 .bloque-texto-g__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'right'}")
-                  h3.mt-5 Seguridad 
-                  p.mb-5 es la condición que está enfocada en la capacidad que tiene un producto de no afectar la integridad física del usuario o cliente o los bienes físicos dispuestos en el ambiente en el cual será preparado para el uso el producto. Está, por lo general está sujeta a normas legales que pueden variar en función de los mercados en los que se quiera comercializar el producto.
+                  p.mt-5 #[sapan.h3 Seguridad: ] 
+                    span es la condición que está enfocada en la capacidad que tiene un producto de no afectar la integridad física del usuario o cliente o los bienes físicos dispuestos en el ambiente en el cual será preparado para el uso el producto. Está, por lo general está sujeta a normas legales que pueden variar en función de los mercados en los que se quiera comercializar el producto.
 
 
 
