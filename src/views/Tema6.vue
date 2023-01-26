@@ -16,7 +16,7 @@
 
     .row.justify-content-around.align-items-center.md-5 
       .col-xl-8.mb-4
-        .cajon.color-acento-botones.p-4.mb-4
+        .cajon.color-acento-botones.p-4.mb-4(style="background-color: #e8f9eb ")
           p Para el modelamiento en tres dimensiones en cualquier programa de dibujo o diseño es fundamental el manejo de las operaciones con sólidos, así como el entendimiento tanto estático como dinámico de las piezas que componen el producto, pues en el estallido del producto se animan las piezas y componentes que hacen parte del conjunto del mismo.
       .col-xl-4
         img(src="@/assets/curso/temas/T6/img-2.svg")

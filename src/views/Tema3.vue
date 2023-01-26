@@ -82,7 +82,7 @@
       LineaTiempoC.color-primario(text-small)
         .row.justify-content-between.align-items-center(titulo="Paso 1")
           .col-md-8.mb-4.mb-md-0
-            p La realidad virtual trasporta al usuario o diseñador a espacio específico.
+            p La realidad virtual transporta al usuario o diseñador al espacio específico.
         
           .col-md-4
             figure

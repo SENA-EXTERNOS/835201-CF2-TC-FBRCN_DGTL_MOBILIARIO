@@ -16,7 +16,7 @@
         .bloque-texto-q.color-secundario.p-4
           .bloque-texto-b__texto
             p.mb-5 En este estudio se desarrollarán las consideraciones y aspectos relacionados al diseño trabajado desde programas computacionales; esto teniendo en cuenta el criterio de calidad y la manera en la cual este concepto permite la fidelización de un mercado.
-            p.mb-5 El diseñador o equipo de diseño al momento de iniciar el proceso constructivo mediante un programa computacional de dibujo mecánico o de diseño, se encuentra en lo que puede denominarse como la fase de diseño preliminar; en esta y de la mano de los bocetos o sketches previos, se plasmarán las principales características que conformarán el producto final y se revisan varios aspectos.
+            p.mb-5 El diseñador o equipo de diseño al momento de iniciar el proceso constructivo mediante un programa computacional de dibujo mecánico o de diseño, se encuentra en lo que puede denominarse como la fase de diseño preliminar; en esta y de la mano de los bocetos o #[em sketches] previos, se plasmarán las principales características que conformarán el producto final y se revisan varios aspectos.
         
 
     .row.mb-5.md-5
@@ -54,7 +54,7 @@
 
           .row(numero="7" titulo="Accesibilidad")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Es la manera en la cual el cliente adquiere el producto (compra, marketing).
+              p.text-small Es la manera en la cual el cliente adquiere el producto (compra, #[em marketing]).
 
           .row(numero="8" titulo="Recipiente (empaque)")
             .col-md-12.mb-4.mb-md-0

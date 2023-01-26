@@ -3,11 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    figure.mb-5
-      .titulo-sexto.barrita
-        p.mb-0 
-        h3 Fabricación digital de mobiliario
-        p Síntesis: Diseño de productos mobiliarios
 
     p.mb5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
