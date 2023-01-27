@@ -77,7 +77,7 @@
                 i.lista-ul__vineta
                 | Barrido por rotación: en este caso el desplazamiento o curva de barrido se lleva a cabo con base a un ángulo determinado respecto a un eje, es decir, a lo largo de una curva en forma de circunferencia, elipse o arco.
           
-          .tarjeta.fce.p-4(titulo="Operaciones booleanas")
+          .tarjeta.fce.p-4(titulo="Operaciones <br> booleanas")
             p Consiste en la creación de nuevos cuerpos a partir de la intersección o interacción de varios de los mismos. Las intersecciones producidas generan áreas o volúmenes en común requeridas en el diseño de piezas o componentes.
 
 
