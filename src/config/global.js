@@ -154,7 +154,7 @@ export default {
         'Revatta, J. (2016). <em>Dibujo para diseño de ingeniería II.</em> Universidad Continental.  ',
       tipo:
         'Documento con herramientas y conceptos para el dibujo de ingeniería.',
-      descarga:
+      link:
         'https://repositorio.continental.edu.pe/bitstream/20.500.12394/2209/1/DO_FIN_EE_MT_UC0223_20162.pdf',
     },
   ],
