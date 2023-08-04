@@ -12,7 +12,7 @@
     .tarjeta.p-4.p-md-5.mb-5.fondo1.color-gris(data-aos="fade-down")
       .row.justify-content-end.align-items-center
         .col-md-5.order-md-first.order-sm-last
-          p.py-3 Apreciado aprendiz, bienvenido a este componente formativo, donde se estudiará el desarrollo del proceso de fabricación digital de mobiliario, adquirir las herramientas y habilidades básicas de los principales programas para el diseño mecánico, dibujo de piezas, partes y componentes, además de las funciones básicas y operaciones que permitan generar propuestas para el cliente. También se revisará la manera en la cual las tecnologías 4.0 aportan en el proceso de diseño y visualización de productos, para la generación de un mayor impacto en los mercados y clientes potenciales.
+          p.py-3 Apreciado aprendiz, bienvenido a este componente formativo, donde se estudiará el desarrollo del proceso de fabricación digital de mobiliario, las herramientas y habilidades básicas de los principales programas para el diseño mecánico, dibujo de piezas, partes y componentes, además de las funciones básicas y operaciones que permitan generar propuestas para el cliente. También se revisará la manera en la cual las tecnologías 4.0 aportan en el proceso de diseño y visualización de productos, para la generación de un mayor impacto en los mercados y clientes potenciales.
             br
             br
             |En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.

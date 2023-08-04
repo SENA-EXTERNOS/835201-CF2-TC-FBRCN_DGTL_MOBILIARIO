@@ -19,7 +19,7 @@
 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .fcg.p-4
+      .fcg.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T4/img-2.svg' alt='AvatarTop')
@@ -27,45 +27,45 @@
         p.text-center.mb-5 Compuesto por una base y altura.
         br
 
-      .fcg.p-4
+      .fcg.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T4/img-3.svg' alt='AvatarTop')
         h2.text-center Cilindro: 
         p.text-center.mb-5  Compuesto por un área circular o elíptica en su base y altura.
 
-      .fcg.p-4
+      .fcg.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T4/img-4.svg' alt='AvatarTop')
         h2.text-center Cono: 
         p.text-center.mb-5  Cuenta con un área de tipo circular o elíptica, altura y área de tapa superior.
 
-      .fcg.p-4
+      .fcg.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T4/img-5.svg' alt='AvatarTop')
         h2.text-center Esfera: 
         p.text-center.mb-5  Compuesta por un radio proyectado en el espacio.
 
-      .fcg.p-4
+      .fcg.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T4/img-6.svg' alt='AvatarTop')
         h2.text-center Pirámide: 
         p.text-center.mb-5 Cuenta con una base de área poligonal y altura.
 
-      .fcg.p-4
+      .fcg.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/T4/img-7.svg' alt='AvatarTop')
         h2.text-center Aro: 
         p.text-center Proyección en el espacio de una circunferencia o elipse con un radio hueco en el centro.
 
-    p.md-5 Dentro de las principales operaciones con sólidos que se pueden trabajar en programas de diseño y dibujo mecánico se encuentran:
+    p.mb-5 Dentro de las principales operaciones con sólidos que se pueden trabajar en programas de diseño y dibujo mecánico se encuentran:
 
     .row.mb-5
-      .col-lg-7.mb-4
+      .col-lg-9.mb-4
         TabsA.color-secundario.mb-5
           .tarjeta.fce.p-4(titulo="Barridos")
             p Con esta operación se crean objetos con volumen en el espacio partiendo de una figura plana o geométrica en el plano; a esta figura dependiendo el programa a utilizar se le conoce como perfil de barrido o boceto. El barrido, se hace en una dirección, la cual se realiza hacia donde se le conoce como curva de barrido. Dentro de esta operación resaltan dos en particular;
@@ -96,7 +96,7 @@
           .tarjeta.fce.p-4(titulo="Estiramientos")
             p Consiste en la elongación o estiramiento de las caras o partes de una figura o cuerpo hasta un punto determinado en el espacio en el que estas se deforman proporcionalmente.
 
-      .col-lg-5.md-5
+      .col-lg-3.md-5
         figure(data-aos='fade-right')
           img(src='@/assets/curso/temas/T4/img-8.png', alt='')
 
