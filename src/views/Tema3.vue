@@ -12,14 +12,14 @@
         p.mb-5 Las tecnologías 4.0, o emergentes como también se les conoce han incursionado en todos los campos de la industria para potenciar y maximizar los procesos de diseño, producción, venta y comercialización de productos y/o servicios. La correcta y acertada escogencia de estos tipos de tecnologías permite que se puedan recrear y representar diferentes condiciones en el uso de estos.
         .cajon.fch.p-4.mb-4
           p Con respecto a los espacios para el mercado, es importante tener en cuenta que el público o mercado con mayor demanda de productos mobiliarios es el de familias jóvenes o personas entre los 20 y 45 años, rangos de edades que se conocen como <i>“millenials”</i> y <i>“centenials”</i>. Este público en particular es considerado como nativo digital; por eso para ellos las herramientas y estrategias digitales deben maximizar experiencias, vivencias y diseños para así generar un alto impacto e intervenir directamente en la decisión de compra.
-        p.mb-5 Los programas o #[em software] utilizados en el proceso de diseño mobiliario, permiten exportar a plataformas o programas para realidad aumentada o virtual. Observemos a continuación, algunas características:
+        p.mb-5 Los programas o #[em software] utilizados en el proceso de diseño mobiliario, permiten exportar a plataformas o programas para realidad aumentada o virtual. Observemos a continuación algunas características:
 
       .col-xl-4
         figure
           img(data-aos='fade-right')(src='@/assets/curso/temas/T3/img-1.png', alt='')
-  
+
     h2.mb-3 Realidad aumentada
-    p.mb-5 La realidad aumentada como lo indica su nombre; toma elementos construidos de manera digital por el diseñador y los inserta en la visualización que tiene el usuario a través de un dispositivo móvil, aumentando e insertando elementos virtuales o digitales en el espacio físico real. 
+    p.mb-5 La realidad aumentada como lo indica su nombre; toma elementos construidos de manera digital por el diseñador y los inserta en la visualización que tiene el usuario a través de un dispositivo móvil, aumentando e insertando elementos virtuales o digitales en el espacio físico real.
 
     p.mb-5 Conozcamos algunas características de la realidad aumentada:
 
@@ -32,7 +32,7 @@
           .col-xl-6.mb-4
             figure
               img(src='@/assets/curso/temas/T3/img-2.png', alt='Texto que describa la imagen')
-       
+
       .tarjeta.fcd.p-4(titulo="PASO 2")
 
         .row.justify-content-around.align-items-center
@@ -45,7 +45,7 @@
 
 
       .tarjeta.fcd.p-4(titulo="PASO 3")
-        
+
         .row.justify-content-around.align-items-center
           .col-xl-6
             p La realidad aumentada ayuda al diseñador a configurar el producto en función del espacio.
@@ -83,7 +83,7 @@
         .row.justify-content-between.align-items-center(titulo="Paso 1")
           .col-md-8.mb-4.mb-md-0
             p La realidad virtual transporta al usuario o diseñador al espacio específico.
-        
+
           .col-md-4
             figure
               img(src='@/assets/curso/temas/T3/img-7.png', alt='Texto que describa la imagen')
@@ -92,7 +92,7 @@
         .row.justify-content-between.align-items-center(titulo="Paso 2")
           .col-md-8.mb-4.mb-md-0
             p En la realidad virtual se pueden utilizar controles o accesorios que le permiten al diseñador o usuario interactuar con el espacio o el producto.
-        
+
           .col-md-4
             figure
               img(src='@/assets/curso/temas/T3/img-8.png', alt='Texto que describa la imagen')
@@ -101,7 +101,7 @@
         .row.justify-content-between.align-items-center(titulo="Paso 3")
           .col-md-8.mb-4.mb-md-0
             p La realidad virtual es una excelente herramienta para evaluar y experimentar la ergonomía y sensación en personas con restricciones de movilidad.
-        
+
           .col-md-4
             figure
               img(src='@/assets/curso/temas/T3/img-9.png', alt='Texto que describa la imagen')
@@ -109,15 +109,15 @@
         .row.justify-content-between.align-items-center(titulo="Paso 4")
           .col-md-8.mb-4.mb-md-0
             p La experimentación a través de realidad virtual repercute en un gran porcentaje en la decisión de compra de nuevos clientes.
-        
+
           .col-md-4
             figure
               img(src='@/assets/curso/temas/T3/img-10.png', alt='Texto que describa la imagen')
 
         .row.justify-content-between.align-items-center(titulo="Paso 5")
           .col-md-8.mb-4.mb-md-0
-            p La utilización de la realidad virtual en el proceso de diseño de mobiliario agrega valor al producto y puede aumentar al mismo en la cadena de producción.  
-        
+            p La utilización de la realidad virtual en el proceso de diseño de mobiliario agrega valor al producto y puede aumentar al mismo en la cadena de producción.
+
           .col-md-4
             figure
               img(src='@/assets/curso/temas/T3/img-11.png', alt='Texto que describa la imagen')

@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Principales #[em software] utilizados en el diseño de mobiliarios
-      
+
 
     .row.md-5
       .col-xl-6.mb-4(data-aos='fade-right')
@@ -16,13 +16,13 @@
       .col-xl-6
         .bloque-texto-q.color-secundario.p-4
           .bloque-texto-b__texto
-            p.mb-5 Los #[em software] para el mercado del dibujo mecánico y diseño de productos utilizados en la industria del mobiliario, le permiten al diseñador crear a partir de planos o esquemas en dos dimensiones, productos en tres dimensiones; esto mediante procesos de transformación y modelado, así como también la recreación de simulaciones en ambientes o espacios, en los que se proyecta que el producto se va a utilizar.
+            p.mb-5 Los #[em software] para el mercado del dibujo mecánico y diseño de productos utilizados en la industria del mobiliario le permiten al diseñador crear, a partir de planos o esquemas en dos dimensiones, productos en tres dimensiones; esto mediante procesos de transformación y modelado, así como también la recreación de simulaciones en ambientes o espacios, en los que se proyecta que el producto se va a utilizar.
               br
               br
               |Es importante indicar que, de acuerdo con el tipo o clase de programa utilizado en el diseño de mobiliarios, existen requerimientos mínimos que deben cumplir los equipos de cómputo en los cuales se trabajará. Para esto, se recomienda visitar el sitio web de cada uno y revisar los requisitos mínimos del equipo.
-        
 
-    p.md-5 En esta infografía se presentan algunos de los principales programas o #[em software] más utilizados en el diseño de mobiliario, con sus características más representativas: 
+
+    p.md-5 En esta infografía se presentan algunos de los principales programas o #[em software] más utilizados en el diseño de mobiliario, con sus características más representativas:
 
 
     ImagenInfograficaB.color-secundario.mb-5
@@ -36,9 +36,9 @@
             img(src="@/assets/curso/temas/T2/img-3.png")
           .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
             .h5.mb-2 Autodesk Fusion 360.
-            p.md-5 Es una herramienta integral de diseño de productos donde se empieza por el diseño del concepto, luego se pasa a la ingeniería de producción, y finalmente se prepara el diseño para la fabricación, utilizando CAM integrado de 2 y 3 ejes o utilizando la utilidad de impresión 3D para la fabricación aditiva. Todo, en una sola plataforma. 
+            p.md-5 Es una herramienta integral de diseño de productos donde se empieza por el diseño del concepto, luego se pasa a la ingeniería de producción, y finalmente se prepara el diseño para la fabricación, utilizando CAM integrado de 2 y 3 ejes o utilizando la utilidad de impresión 3D para la fabricación aditiva. Todo, en una sola plataforma.
               br
-              |Fusion 360 incluye un modelado directo y flexible en tiempo real, así como un modelado paramétrico basado en características, permite generar rápidamente alternativas de diseño de alto rendimiento, desde una sola idea. 
+              |Fusion 360 incluye un modelado directo y flexible en tiempo real, así como un modelado paramétrico basado en características, permite generar rápidamente alternativas de diseño de alto rendimiento, desde una sola idea.
               br
               |Se debe resaltar que, con el diseño generativo, no hay una solución única; en cambio, hay potencialmente miles de grandes soluciones. Se puede analizar el diseño bajo diferentes condiciones, utilizando diversos materiales, cargas y restricciones. Además, se pueden realizar estudios de estrés térmico y no lineal.
 
@@ -59,7 +59,7 @@
             img(src="@/assets/curso/temas/T2/img-5.png")
           .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
             .h5.mb-2 TinkerCAD.
-            p.mb-5 Es una colección online que incluye herramientas de #[em software] de Autodesk y que permite a los usuarios principiantes crear modelos 3D. Este software CAD se basa en una geometría sólida constructiva (CSG), que permite a los usuarios crear modelos complejos mediante la combinación de objetos más simples. Como resultado, este #[em software] de modelado 3D es fácil de usar y, actualmente, lo utilizan miles de personas, entre ellas maestros, niños, aficionados y diseñadores porque una de sus ventajas es que es gratis. TinkerCAD es una buena alternativa a otros #[em software] de modelado 3D como SketchUp o Fusion360. 
+            p.mb-5 Es una colección online que incluye herramientas de #[em software] de Autodesk y que permite a los usuarios principiantes crear modelos 3D. Este software CAD se basa en una geometría sólida constructiva (CSG), que permite a los usuarios crear modelos complejos mediante la combinación de objetos más simples. Como resultado, este #[em software] de modelado 3D es fácil de usar y, actualmente, lo utilizan miles de personas, entre ellas maestros, niños, aficionados y diseñadores porque una de sus ventajas es que es gratis. TinkerCAD es una buena alternativa a otros #[em software] de modelado 3D como SketchUp o Fusion360.
               br
               |El #[em software] de TinkerCAD permite agregar circuitos electrónicos a los diseños 3D para crear objetos con luz y movimiento; el resultado final incluso se puede simular en el #[em software] para verificar cómo responderán los componentes en la vida real. Otra capacidad que tiene es la de transformar un diseño 3D en modelos de ladrillo construibles, similar a la creación de legos.
 
@@ -83,7 +83,7 @@
             p.mb-5 Es el programa por defecto, que muchos arquitectos usan para diseñar; bocetos, dibujos, planos, estructuras y piezas que deben cumplir con ciertos parámetros solicitados por los clientes. Además, AutoCAD es un programa multifacético que permite desarrollar proyectos de índole arquitectónico, industrial, mecánicos, de diseño gráfico y de ingeniería. Gracias a la posibilidad de visualizar los diseños en 2D y 3D, AutoCAD es uno de los programas de diseño digital de líderes del mercado.
               br
               |Este permite crear diseños bidimensionales y tridimensionales ya que permite la elaboración de piezas elaboradas con la estrategia de dibujo técnico complejo y cuenta con una galería de objetos predeterminados con los cuales se puede trabajar en el diseño de cualquier tipo de pieza o estructura. El programa además, cuenta con una interfaz accesible y de funciones específicas para que el profesional se familiarice rápidamente y entienda cómo usar el software; se puede crear todo tipo de diseño de planos, bocetos, dibujos, estructuras y piezas de carácter parametrizado y sirve para diseñar las piezas, dibujos y formas que se requieran para el desarrollo de sistemas mecánicos e industriales.
- 
+
 
 
 </template>

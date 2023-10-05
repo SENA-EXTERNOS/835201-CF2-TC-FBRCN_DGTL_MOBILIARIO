@@ -17,11 +17,11 @@
           .bloque-texto-b__texto
             p.mb-5 En este estudio se desarrollarán las consideraciones y aspectos relacionados al diseño trabajado desde programas computacionales; esto teniendo en cuenta el criterio de calidad y la manera en la cual este concepto permite la fidelización de un mercado.
             p.mb-5 El diseñador o equipo de diseño al momento de iniciar el proceso constructivo mediante un programa computacional de dibujo mecánico o de diseño, se encuentra en lo que puede denominarse como la fase de diseño preliminar; en esta y de la mano de los bocetos o #[em sketches] previos, se plasmarán las principales características que conformarán el producto final y se revisan varios aspectos.
-        
+
 
     .row.mb-5.md-5
       .col-md-4.mb-5.mb-md-0
-        h3.mb-5 Observemos algunos de los aspectos que se deben tener en cuenta, en la fase de diseño preliminar:
+        h3.mb-5 Observemos algunos de los aspectos que se deben tener en cuenta en la fase de diseño preliminar:
         figure
           img(data-aos='fade-right')(src='@/assets/curso/temas/T1/img-2.png', alt='')
 
@@ -34,7 +34,7 @@
           .row(numero="2" titulo="Costos")
             .col-md-12.mb-4.mb-md-0
               p.text-small En relación con las funciones a realizar, estos deben ser los más bajos posibles.
-          
+
 
           .row(numero="3" titulo="Tamaño y forma ")
             .col-md-12.mb-4.mb-md-0
@@ -42,7 +42,7 @@
 
           .row(numero="4" titulo="Calidad")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Debe estar de la mano y ser siempre consecuente con la función a realizar; para lograrla se debe equilibrar en el proceso que la mayor condición de esta no implique el incrementar los costos de una manera desmesurada, ni que sea tan baja que cause la perdida de interés de los clientes.
+              p.text-small Debe estar de la mano y ser siempre consecuente con la función a realizar; para lograrla se debe equilibrar en el proceso que la mayor condición de esta no implique el incrementar los costos de una manera desmesurada, ni que sea tan baja que cause la pérdida de interés de los clientes.
 
           .row(numero="5" titulo="Impacto ambiental")
             .col-md-12.mb-4.mb-md-0
@@ -59,7 +59,7 @@
           .row(numero="8" titulo="Recipiente (empaque)")
             .col-md-12.mb-4.mb-md-0
               p.text-small Hace referencia a la manera en la cual el producto va empacado para la venta y el impacto que genera esto en la producción y distribución del mismo.
-            
+
     p.mb-5 Una vez las consideraciones anteriores son establecidas por el diseñador o el equipo de diseño, se da paso a la fase de diseño detallado; en ésta y mediante la interacción y simulación se pueden llevar a cabo los programas de dibujo mecánico, en estos se diseñan, revisan y evalúan las siguientes características:
 
 
@@ -73,8 +73,8 @@
                     :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-3.png')})`}"
                   )
                   .bloque-texto-g__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'right'}")
-                    p.mb-5 #[span.h3 Modularidad: ] 
-                      span es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. El modularidad tiene entre otros objetivos garantizar la estandarización de la producción. 
+                    p.mb-5 #[span.h3 Modularidad: ]
+                      span es el tipo de diseño que mediante la creación e interacción de módulos proporciona al cliente mayor variedad y posibilidad de utilizar un mismo producto. Dentro de sus ventajas se resalta la más ágil programación y planificación de producción, reparación y mantenimiento. La modularidad tiene entre otros objetivos garantizar la estandarización de la producción.
 
       .row.mt-5
         .col-10.px-5.py-4
@@ -85,10 +85,10 @@
                   :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-4.png')})`}"
                 )
                 .bloque-texto-x__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'left'}")
-                  p.mb-5 #[span.h3 Fiabilidad:] 
+                  p.mb-5 #[span.h3 Fiabilidad:]
                     span hace referencia a la condición adecuada y óptima que el producto presenta al momento de ser utilizado. Esta condición debe coincidir con lo establecido en las fases preliminares del proceso de diseño. Las propiedades de calidad de las materias primas y componentes que hacen parte del diseño del producto garantizan por ende en mayor o menor medida esta condición.
-      
-      
+
+
 
         .col-10.offset-2.bg-amarillo-claro.borde-der-secundario-19.px-5.py-4.mt-5
           .row
@@ -98,8 +98,8 @@
                   :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-5.png')})`}"
                 )
                 .bloque-texto-g__texto.p-4(:style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-6.svg')})`,'background-repeat': 'no-repeat','background-position' : 'right'}")
-                  p.mt-5 #[sapan.h3 Seguridad: ] 
-                    span es la condición que está enfocada en la capacidad que tiene un producto de no afectar la integridad física del usuario o cliente o los bienes físicos dispuestos en el ambiente en el cual será preparado para el uso el producto. Está, por lo general está sujeta a normas legales que pueden variar en función de los mercados en los que se quiera comercializar el producto.
+                  p.mt-5 #[sapan.h3 Seguridad: ]
+                    span es la condición que está enfocada en la capacidad que tiene un producto de no afectar la integridad física del usuario o cliente, o los bienes físicos dispuestos en el ambiente en el cual será preparado para el uso el producto. Esta, por lo general está sujeta a normas legales que pueden variar en función de los mercados en los que se quiera comercializar el producto.
 
 
 
