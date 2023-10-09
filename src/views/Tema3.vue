@@ -19,7 +19,7 @@
           img(data-aos='fade-right')(src='@/assets/curso/temas/T3/img-1.png', alt='')
 
     h2.mb-3 Realidad aumentada
-    p.mb-5 La realidad aumentada como lo indica su nombre; toma elementos construidos de manera digital por el diseñador y los inserta en la visualización que tiene el usuario a través de un dispositivo móvil, aumentando e insertando elementos virtuales o digitales en el espacio físico real.
+    p.mb-5 La realidad aumentada, como lo indica su nombre, toma elementos construidos de manera digital por el diseñador y los inserta en la visualización que tiene el usuario a través de un dispositivo móvil, aumentando e insertando elementos virtuales o digitales en el espacio físico real.
 
     p.mb-5 Conozcamos algunas características de la realidad aumentada:
 

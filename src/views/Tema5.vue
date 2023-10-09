@@ -115,11 +115,7 @@
             img(src="@/assets/curso/temas/T5/img-8.png")
           .col-8.col-sm-6.col-md-9.mb-4.mb-md-0
             .h5.mb-2 Ensamble de mobiliario.
-            p La elaboración de un procedimiento para ensamble de mobiliario, este debe ser de la forma más clara y sencilla posible de tal manera que le permita al cliente entender cómo unir partes y piezas de manera rápida y sencilla mediante la utilización de la menor cantidad de herramientas o accesorios posibles. Los programas de diseño y dibujo mecánico cuentan con opciones de explosionado de partes que son utilizados por los diseñadores para la creación de procedimientos y paso a paso en el ensamble.
-
-
-
-
+            p En la elaboración de un procedimiento para ensamble de mobiliario, este debe ser de la forma más clara y sencilla posible de tal manera que le permita al cliente entender cómo unir partes y piezas de manera rápida y sencilla mediante la utilización de la menor cantidad de herramientas o accesorios posibles. Los programas de diseño y dibujo mecánico cuentan con opciones de explosionado de partes que son utilizados por los diseñadores para la creación de procedimientos y paso a paso en el ensamble.
 
 
   </template>
